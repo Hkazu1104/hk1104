@@ -16,16 +16,75 @@ div.box1{
    height: 100px;
    width: 100px;
    background-color: salmon;
+   text-align: center;
+   text-shadow: 1px 1px 2px pink;
 }
 
 div.box2{
    height: 100px;
    width: 100px;
    background-color: yellowgreen;
+   text-align: center;
+   text-shadow: 1px 1px 2px pink;
 }
 
 div.box3{
    height: 100px;
    width: 100px;
    background-color: indigo;
+   text-align: center;
+   text-shadow: 1px 1px 2px pink;
+   border-radius: 10px;
 }
+
+div.box4{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    text-shadow: 1px 1px 2px pink;
+    border-radius: 50% 50% 0 50%;
+    position: absolute;
+    left: 0;
+    top: 900;
+    margin: 1%;
+ }
+
+ div.box5{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    text-shadow: 1px 1px 2px pink;
+    border-radius: 50% 0 50% 50%;
+    position: absolute;
+    left: 0;
+    top: 1005;
+    margin: 1%;
+ }
+
+ div.box6{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    text-shadow: 1px 1px 2px pink;
+    border-radius: 50% 50% 50% 0;
+    position: absolute;
+    left: 105;
+    top: 900;
+    margin: 1%;
+ }
+
+ div.box7{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    text-shadow: 1px 1px 2px pink;
+    border-radius: 0 50% 50% 50%;
+    position: absolute;
+    left: 105;
+    top: 1005;
+    margin: 1%;
+ }
