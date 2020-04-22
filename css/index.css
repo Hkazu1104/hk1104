@@ -1,0 +1,31 @@
+p.sub-title1 {
+    color: blue;
+}
+
+p#sub-title2 {
+    color: yellow;
+}
+
+h1{
+    color: magenta;
+    font-size: 60pt;
+    font-weight: bold;
+}
+
+div.box1{
+   height: 100px;
+   width: 100px;
+   background-color: salmon;
+}
+
+div.box2{
+   height: 100px;
+   width: 100px;
+   background-color: yellowgreen;
+}
+
+div.box3{
+   height: 100px;
+   width: 100px;
+   background-color: indigo;
+}
