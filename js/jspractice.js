@@ -41,3 +41,5 @@ const name = "田中太郎";//これは帰ることができない。
 age = age + 2;
 
 console.log(`${name}さんの年齢は${age}です`);
+//　ES6 or ES2015
+// ver 変数名　←使わない
